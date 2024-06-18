@@ -41,7 +41,7 @@ I believe in the power of problem-solving to drive innovation and efficiency. Wh
 
 ## 📫 Connect with Me
 - [LinkedIn]((https://www.linkedin.com/in/mukesh-kumar-b-474714200/)) <!-- Replace with your LinkedIn profile URL -->
-- [Email](mailto:kumarbeerkoor@email.com) <!-- Replace with your email address -->
+- [Email](mailto:kumarbeerkoor@gmail.com) <!-- Replace with your email address -->
 
 ---
 
