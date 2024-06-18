@@ -2,7 +2,6 @@
 
 
 
----
 
 ## 🌟 About Me
 I'm Mukesh Kumar, a passionate Software Developer who loves turning ideas into reality through code. With a strong foundation in both frontend and backend technologies, I enjoy solving complex problems and continually learning new skills to stay updated in this ever-evolving field.
@@ -44,14 +43,11 @@ I believe in the power of problem-solving to drive innovation and efficiency. Wh
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile) <!-- Replace with your LinkedIn profile URL -->
-- [Twitter](https://twitter.com/yourprofile) <!-- Replace with your Twitter profile URL -->
-- [Email](mailto:your.email@example.com) <!-- Replace with your email address -->
+- [LinkedIn]((https://www.linkedin.com/in/mukesh-kumar-b-474714200/)) <!-- Replace with your LinkedIn profile URL -->
+- [Email](mailto:kumarbeerkoor@email.com) <!-- Replace with your email address -->
 
 ---
 
 
-
----
 
 Feel free to explore my repositories and projects. Let's build something amazing together!
