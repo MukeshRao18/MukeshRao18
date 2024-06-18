@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Mukesh Kumar
 
-![Developer at work](https://www.example.com/developer-image.jpg) <!-- Replace with an actual image URL or remove this line -->
+
 
 ---
 
@@ -10,11 +10,31 @@ I'm Mukesh Kumar, a passionate Software Developer who loves turning ideas into r
 ---
 
 ## 💻 Tech Stack
-- **Frontend**: HTML, CSS, JavaScript, SASS, ReactJS, Bootstrap
-- **Backend**: Node.js, Socket.IO
-- **Languages**: C, C++, Java
-- **Database**: SQL, MySQL
-- **State Management**: Redux
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### Database
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### State Management
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ---
 
@@ -30,8 +50,7 @@ I believe in the power of problem-solving to drive innovation and efficiency. Wh
 
 ---
 
-## 🔥 Fun Fact
-When I'm not coding, you can find me exploring the latest tech trends, reading science fiction, or experimenting with new recipes in the kitchen.
+
 
 ---
 
