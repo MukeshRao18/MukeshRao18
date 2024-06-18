@@ -1,4 +1,6 @@
-# 👋 Hello!, I'm Mukesh Kumar
+<h1 align="center">Hi 👋, I'm Mukesh Kumar</h1>
+
+
 
 ## 🌟 About Me
 I'm Mukesh Kumar, a passionate Software Developer who loves turning ideas into reality through code. With a strong foundation in both frontend and backend technologies, I enjoy solving complex problems and continually learning new skills to stay updated in this ever-evolving field.
